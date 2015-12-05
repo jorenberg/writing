@@ -16,3 +16,6 @@
 # ---------------------------------------
 # Principle  : Standard Module Definition
 # ---------------------------------------
+
+# Require compass plugin:
+require 'compass/import-once/activate'
