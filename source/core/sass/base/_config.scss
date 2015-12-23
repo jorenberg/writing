@@ -30,3 +30,6 @@ $axix-brand-bg-color-dark:                            darken(#FDFDFC, 04.9%) !de
 $axix-brand-color-dark:                               darken(#FFD974, 29.9%) !default;
 $axix-brand-bg-color-light:                           lighten(#E1DDCF, 4.9%) !default;
 $axix-brand-color-light:                     lighten($axix-brand-color,7.9%) !default;
+// 2.1 Global text link color.
+$axix-base-link-color:                                               #4D2C19 !default;
+$axix-base-link-hover-color:                                         #794628 !default;
